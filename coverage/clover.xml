@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1731207286066" clover="3.2.0">
-  <project timestamp="1731207286066" name="All files">
-    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="3" coveredelements="3" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
-    <file name="sum.js" path="C:\Users\3060\Desktop\pipelinePractica\practicaGeneral\sum.js">
+<coverage generated="1733422679225" clover="3.2.0">
+  <project timestamp="1733422679225" name="All files">
+    <metrics statements="10" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2" elements="15" coveredelements="11" complexity="0" loc="10" ncloc="10" packages="1" files="2" classes="2"/>
+    <file name="app.js" path="C:\pro\practica-final\app.js">
+      <metrics statements="8" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+    </file>
+    <file name="sum.js" path="C:\pro\practica-final\sum.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
